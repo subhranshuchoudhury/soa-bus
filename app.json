@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.subhranshuchoudhury.soabus"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ea07c52c-ff9b-496f-a842-e59b83edc618"
+      }
+    },
+    "owner": "subhranshuchoudhury"
   }
 }
